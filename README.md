@@ -32,3 +32,8 @@ These are some screenshots of our final report website
 ![Screenshot 2022-05-09 150654](https://user-images.githubusercontent.com/90923213/167489326-86a81caf-4de5-43b7-a667-b3edcf25849e.png)
 <br/>
 ![Screenshot 2022-05-09 150754](https://user-images.githubusercontent.com/90923213/167489327-903ecdd0-a008-419e-b458-a7185cf28add.png)
+
+## Contact
+Created by [@cadekeenan] <br>
+Created by [@immcsorley] <br>
+Created by [@timcookk] <br>
